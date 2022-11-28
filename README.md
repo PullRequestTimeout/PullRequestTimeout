@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Jacob! Snowboarder, mountain biker, adventurer, coffee nerd, and web developer from Australia, living in British Columbia, Canada. Currently building a couple of projects with vanilla JS while learning React.
+Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from Australia, living in British Columbia, Canada. Currently building a couple of projects with vanilla JS while learning React.
 
 ## Current Projects
 
