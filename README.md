@@ -12,4 +12,4 @@ Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from 
 
  - [Instagram](https://www.instagram.com/caffeinatejake)
 
- - [LinkedIn]()
+ - [LinkedIn](https://www.linkedin.com/in/jacob-druery/)
