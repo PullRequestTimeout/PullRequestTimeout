@@ -2,11 +2,11 @@
 
 Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from Australia, living in British Columbia, Canada. Currently maintaining a couple of live projects while working on a new fullstack React project with the OpenAI API.
 
-## Current Projects
+## Current Project
 
 -   [Dirt Surfer](https://github.com/PullRequestTimeout/dirt-surfer) is an AI-powered forecasting webapp for moutainbike trail conditions initially focusing on Rossland BC and surrounding area, and then expanding to other regions over time. Frontend built with React using Material UI, backend API built using Express and MongoDB. Backend repo is [Dirt Server](https://github.com/PullRequestTimeout/dirt-server) bacause I think I'm funny.
 
-## Past Projects
+## Previous Work
 
 -   [jacobeli.dev](https://jacobeli.dev/) - My personal portfolio, built using Svelte. Another collaboration with [Sean Makura](https://seanmakura.webflow.io/) after the great work he did on Rooted in Motion project. [View repo here!](https://github.com/PullRequestTimeout/jacobeli.dev)
 
