@@ -4,9 +4,11 @@ Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from 
 
 ## Current Project
 
--   [Dirt Surfer](https://github.com/PullRequestTimeout/dirt-surfer) is an AI-powered forecasting webapp for moutainbike trail conditions initially focusing on Rossland BC and surrounding area, and then expanding to other regions over time. Frontend built with React using Material UI, backend API built using Express and MongoDB. Backend repo is [Dirt Server](https://github.com/PullRequestTimeout/dirt-server) bacause I think I'm funny.
+-   [Secret Spots](https://github.com/PullRequestTimeout/secret-spots) is a webapp built with SvelteKit and Firebase that allows users to keep a personal logbook of their favourite locations with a maps API, and record descriptions and notes of various visits to the location. Ultimate goal of the app is make it a PWA and built up a userbase.
 
 ## Previous Work
+
+-   [Dirt Surfer](https://github.com/PullRequestTimeout/dirt-surfer) was an AI-powered forecasting webapp for moutainbike trail conditions initially focusing on Rossland BC and surrounding area. Frontend built with React using Material UI, nodeJS backend API built using Express and MongoDB. Backend repo is [Dirt Server](https://github.com/PullRequestTimeout/dirt-server) bacause I think I'm funny. Deployed the API for a month to determine the viability and accuracy of the data, however while the data generated was reasonably worthwhile, the server costs outweighed the potential usefulness of the app given the constantly shifting nature of the environment and impossibilty to forecasts events like downed trees etc.
 
 -   [jacobeli.dev](https://jacobeli.dev/) - My personal portfolio, built using Svelte. Another collaboration with [Sean Makura](https://seanmakura.webflow.io/) after the great work he did on Rooted in Motion project. [View repo here!](https://github.com/PullRequestTimeout/jacobeli.dev)
 
