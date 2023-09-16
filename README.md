@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from Australia, living in British Columbia, Canada. Currently maintaining a couple of live projects while working on a new SvelteKit/Firebase project.
+Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from Australia, living in British Columbia, Canada. Currently maintaining a couple of live projects while working on a new SvelteKit+Firebase project.
 
 ## Current Project
 
