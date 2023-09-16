@@ -4,7 +4,7 @@ Hi, I'm Jacob! Snowboarder, mountain biker, coffee nerd, and web developer from 
 
 ## Current Project
 
--   [Secret Spots](https://github.com/PullRequestTimeout/secret-spots) is a webapp built with SvelteKit and Firebase that allows users to keep a personal logbook of their favourite locations with a maps API, and record descriptions and notes of various visits to the location. Ultimate goal of the app is make it a PWA and built up a userbase.
+-   [Secret Spots](https://github.com/PullRequestTimeout/secret-spots) is a webapp built with SvelteKit and Firebase that allows users to keep a personal logbook of their favourite locations with a maps API, and record descriptions and notes of various visits to the location. Ultimate goal of the app is make it a PWA and build up an active userbase to gain more experience managing a live service.
 
 ## Previous Work
 
