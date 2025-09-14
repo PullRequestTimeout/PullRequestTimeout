@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Jacob! Photographer, web developer, and entrepreneur from Australia, living in British Columbia, Canada. I have a background in small business, and after teaching myself web development starting in 2020, am currently in the process of growing a creative web agency in Rossland, BC. I'm a firm believer in starting a project before you know how to finish it and learning as you go, and Pixel Mountain Creative is that project.
+Hi, I'm Jacob! Web developer, photographer, and entrepreneur from Australia, living in British Columbia, Canada. I have a background in small business, and after teaching myself web development starting in 2020, am currently in the process of growing a creative web agency in Rossland, BC. I'm a firm believer in starting a project before you know how to finish it and learning as you go, and Pixel Mountain Creative is that project.
 
 ## Current Project
 
